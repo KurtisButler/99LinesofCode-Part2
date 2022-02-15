@@ -1,31 +1,41 @@
 body {
-    background-color: aqua;
-    display: block;
+  background-color: aqua;
+  display: block;
 }
 
 h1 {
-    color: darkslategrey;
-    text-align: center;
-    margin-bottom: 2em;
+  color: darkslategrey;
+  text-align: center;
+  margin-bottom: 2em;
 }
 
 .friend {
-    background-color: lightgoldenrodyellow;
-    
+  background-color: lightgoldenrodyellow;
 }
 
 h3 {
-   text-transform: uppercase;
-   text-align: center;
-   color: darkmagenta;
-
-  
+  text-transform: uppercase;
+  text-align: center;
+  color: darkmagenta;
 }
 
 p {
-    text-align: center;
-    color: darkslategrey;
-    font-weight: bold;
-    font-style: italic;
+  text-align: center;
+  color: darkslategrey;
+  font-weight: bold;
+  font-style: italic;
+}
 
+.btn {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   height: 100%;
+   width: 100%;
+}
+
+#singButton {
+    height: 2em;
+    width: 7em;
+    font-size: 1em;
 }
