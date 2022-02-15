@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+    display: block;
+}
+
+h1 {
+    color: darkslategrey;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.friend {
+    background-color: lightgoldenrodyellow;
+    
+}
+
+h3 {
+   text-transform: uppercase;
+   text-align: center;
+   color: darkmagenta;
+
+  
+}
+
+p {
+    text-align: center;
+    color: darkslategrey;
+    font-weight: bold;
+    font-style: italic;
+
+}
